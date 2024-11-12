@@ -1,6 +1,5 @@
 Flask==2.1.2
 pydub==0.25.1
-pyannote.audio==2.1.1
 torch==2.4.1
 numpy==1.23.1
 setuptools
